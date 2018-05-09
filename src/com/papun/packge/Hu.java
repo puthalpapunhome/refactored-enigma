@@ -1,5 +1,7 @@
 package com.papun.packge;
 
 public class Hu {
-nmhjkj
+public static void main(String[] args) {
+	System.out.println("bdshfb");
+}
 }
