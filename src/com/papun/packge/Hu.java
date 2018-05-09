@@ -4,5 +4,6 @@ public class Hu {
 public static void main(String[] args) {
 	System.out.println("bdshfb");
 	System.out.println("mdskkd");
+	System.out.println("I like it....!!!");
 }
 }
