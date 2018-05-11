@@ -4,6 +4,6 @@ public class Movie {
 public static void main(String[] args) {
 	System.out.println("new package created");
 	System.out.println("test commited");
-        System.out.print("sawan");
+        System.out.print("sawn");
 }
 }
